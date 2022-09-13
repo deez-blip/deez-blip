@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deez-blip
+- 👋 Hi, I’m Gaspard Castagnet
 - 👀 I’m interested in back end and data project
 - 🌱 I’m currently learning how to use Github
 - 💞️ Out of coding I like video games such as LoL
