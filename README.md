@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaspard Castagnet
-- 👀 I’m interested in back end,data project, using api, IOT.
+- 👀 I’m interested in back end,data project, IOT.
 - 🌱 I’m currently learning IOT
 - 💞️ Out of coding I like video games such as LoL
 - 📫 How to reach me : gaspard.castagnet@edu.devinci.fr
